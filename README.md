@@ -1,1 +1,2 @@
-# diy_tomcat
+# 模拟tomcat的部分基础功能
+当前仅包括connector和processor
